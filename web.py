@@ -7,6 +7,7 @@ def add_todo():
     functions.write_todos(todos)
 
 todos = functions.get_todos()
+# just test
 
 st.title("My Todo App")
 # st.subheader("This is my todo app.")
